@@ -1,0 +1,1 @@
+{"name":"Local: yes_or_yes","url":"c:\\Users\\Micro Tech\\Desktop\\CP\\yes_or_yes.py","tests":[{"id":1769170351745,"input":"10\nYES\nyES\nyes\nYes\nYeS\nNoo\norZ\nyEz\nYas\nXES","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Micro Tech\\Desktop\\CP\\yes_or_yes.py","group":"local","local":true}
