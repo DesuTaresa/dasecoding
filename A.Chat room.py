@@ -1,0 +1,5 @@
+s = input()
+h = set(s)
+d = "".join(h)
+print(h)
+print(d)

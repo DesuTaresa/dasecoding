@@ -1,0 +1,1 @@
+{"name":"Local: Watermelon","url":"c:\\Users\\Micro Tech\\Desktop\\CP\\Watermelon.py","tests":[{"id":1768677589295,"input":"1\n","output":"\n"},{"id":1769781954843,"input":"5","output":""},{"id":1769781998258,"input":"4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Micro Tech\\Desktop\\CP\\Watermelon.py","group":"local","local":true}

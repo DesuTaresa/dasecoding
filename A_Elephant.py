@@ -1,0 +1,14 @@
+x=int(input())
+count=0
+while x>=1:
+    if x>5:
+        x-=5
+    elif x>4:
+        x-=4
+    elif x>3:
+        x-=3
+    elif x>2:
+        x-=2
+    else:
+        count+=1
+    print(count)
