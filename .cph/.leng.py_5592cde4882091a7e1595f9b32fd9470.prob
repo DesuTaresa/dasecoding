@@ -1,1 +1,0 @@
-{"name":"Local: leng","url":"c:\\Users\\Micro Tech\\Desktop\\CP\\leng.py","tests":[{"id":1768685768433,"input":"4\nword\nlocalization\ninternationalization\npneumonoultramicroscopicsilicovolcanoconiosis\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Micro Tech\\Desktop\\CP\\leng.py","group":"local","local":true}

@@ -1,5 +1,0 @@
-lst = input()
-lst2 = " ".join(lst.split("WUB"))
-lst2= lst2.strip()
-lst2 = " ".join(lst2.split())
-print(lst2)
